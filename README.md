@@ -63,10 +63,4 @@ automacao_credencial_idoso_e_pne/
 - Certifique-se de que os modelos `modelo_idoso.docx` e `modelo_pne.docx` estejam devidamente formatados e contenham os campos necessários para a substituição dos dados.
 - Este projeto foi desenvolvido com foco na automação de tarefas administrativas, visando aumentar a eficiência e reduzir erros manuais.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 > *"A automação não apenas economiza tempo, mas também melhora a precisão e a consistência dos processos."*
